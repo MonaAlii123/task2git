@@ -1,6 +1,10 @@
 
+body{
+    background-color: yellow;
+}
 p{
     color:blueviolet;
     padding:30px ;
     background-color: brown;
+
 }
